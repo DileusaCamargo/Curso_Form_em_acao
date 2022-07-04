@@ -1,7 +1,6 @@
 - Sobre Mim
 -Professora Dileusa
 - Interessada no momento em programação HTML e CSS
-- Compartilhar códigos com meus alunos
 
 
 <!---
