@@ -1,18 +1,21 @@
+
 body{
-	
+	background: #CCCCCC;
 	font-size: 20px;
 	text-align: left;
+	 }
 
- }
  #banner{
-
  	width: 30%;
  }
+
 h1{
 	text-align: center;
-	color: blue;
+	color: rgb(0, 100, 0);
+
 
 }
-div{
-	background: #CCCCCC;
+h2{
+	color: blue;
+	text-align: center;
 }
