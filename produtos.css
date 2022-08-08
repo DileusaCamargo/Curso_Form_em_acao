@@ -41,13 +41,16 @@ nav a:hover{ /*/ MUDAR A COR QUANDO PASSA O MOUSE SOBRE O ELEMNTO */
 	margin: 0 1.5%
 	padding: 20px 30px;
 	box-sizing: border-box;
-	border: 10px solid #FF0000;
+	border: 10px solid #DEB887;
 	border-radius: 10px; /*/ ARREDENDAR A BORDA */
 	border-style: bold;
 
 	}
 	#banner{
-		width: 30%
+		width: 60px;
+		height: 60px;
+
+
 	}
 	.produtos li:hover{
 		border-color: #C78C19;
