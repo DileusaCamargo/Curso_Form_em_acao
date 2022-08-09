@@ -61,4 +61,4 @@ nav a:hover{ /*/ MUDAR A COR QUANDO PASSA O MOUSE SOBRE O ELEMNTO */
 }
 .produtos li:hover h2{
 	text-transform: uppercase;
-	font-size: 40px;
+	font-size: 30px;
